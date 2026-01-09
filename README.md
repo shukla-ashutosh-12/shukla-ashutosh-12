@@ -15,21 +15,6 @@ Data Analyst || Machine Learning Enthusiast || Android Developer 🚀
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 </p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
 
 * 🔭 **I’m currently working on:** Data Analytics, Machine Learning projects & Android app development
 * 🌱 **I’m currently learning:** Advanced Machine Learning, Android Development (Flutter) & Cloud fundamentals
