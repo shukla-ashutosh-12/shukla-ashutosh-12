@@ -1,7 +1,13 @@
 
+<h1 align="center">
+📊 📱 Hi 👋, I'm Ashutosh Shukla  
+<br>
+Data Analyst || Machine Learning Enthusiast || Android Developer 🚀
+</h1>
 
-<h1 align="center">📱 💫 Hi 👋, I'm Ashutosh Shukla -**A passionate Data Analyst || Machine Learning Enthusiast || Android Developer from India** 🚀</h1>
-<h3 align="center">"Crafting seamless mobile experiences with Flutter, Android, and iOS!"</h3>
+<h3 align="center">
+"Turning data into insights & crafting seamless mobile experiences with Flutter and Android"
+</h3>
 
 ---
 
