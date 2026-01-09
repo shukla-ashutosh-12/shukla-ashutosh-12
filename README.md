@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Ashutosh Shukla
 **A passionate Data Analyst || Machine Learning Enthusiast || Android Developer from India**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **ashutosh0000shukla@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 Here’s the same section **fully customized for you**, clean and ready for GitHub README 👇
 
