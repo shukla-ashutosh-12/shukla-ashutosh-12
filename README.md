@@ -1,7 +1,13 @@
-# 💫 Hi 👋, I'm Ashutosh Shukla
-**A passionate Data Analyst || Machine Learning Enthusiast || Android Developer from India**
 
-Email Me 👉 ✉️ **ashutosh0000shukla@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+<h1 align="center">📱 💫 Hi 👋, I'm Ashutosh Shukla -**A passionate Data Analyst || Machine Learning Enthusiast || Android Developer from India** 🚀</h1>
+<h3 align="center">"Crafting seamless mobile experiences with Flutter, Android, and iOS!"</h3>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+</p>
 
 
 * 🔭 **I’m currently working on:** Data Analytics, Machine Learning projects & Android app development
