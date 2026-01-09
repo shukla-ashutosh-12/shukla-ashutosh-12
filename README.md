@@ -14,7 +14,6 @@ Here’s the same section **fully customized for you**, clean and ready for GitH
 * 😄 **Pronouns:** He/Him
 * ⚡ **Fun fact:** I turn raw data into insights and ideas into Android apps 📊📱
 
-If you want, I can also make it **shorter**, **more emoji-rich**, or **resume-friendly**.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh0000shukla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashutosh0000shukla@gmail.com) 
