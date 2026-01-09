@@ -3,7 +3,6 @@
 
 Email Me 👉 ✉️ **ashutosh0000shukla@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-Here’s the same section **fully customized for you**, clean and ready for GitHub README 👇
 
 * 🔭 **I’m currently working on:** Data Analytics, Machine Learning projects & Android app development
 * 🌱 **I’m currently learning:** Advanced Machine Learning, Android Development (Flutter) & Cloud fundamentals
